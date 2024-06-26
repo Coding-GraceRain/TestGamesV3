@@ -1,0 +1,1 @@
+add master mstGM01.txt after add slave slvGM00.txt.
